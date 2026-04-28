@@ -1,40 +1,17 @@
-# certificate portal
+# 🏆 Certificate Portal
 
-AWS Workshop - certificate portal
+Certificate generation and management portal for AWS First Cloud Journey events.
 
-## Overview
+## Features
 
-This repository contains hands-on lab materials for learning AWS services and best practices.
-
-## Prerequisites
-
-- AWS Account
-- Basic understanding of cloud computing
-- AWS CLI installed (optional)
-
-## Getting Started
-
-Follow the instructions in the workshop guide to complete the lab exercises.
-
-## Topics
-
-- AWS
-- Cloud Computing
-- Hands-on Lab
+- Generate completion certificates
+- Verify certificate authenticity
+- Bulk certificate processing
 
 ## Author
 
-**Kha Van Hoang**
-- Senior Cloud Security Engineer
-- AWS Community Leader
-- Co-Founder, Viet AWS
+**Van Hoang Kha** — Cloud Security Engineer | AWS Community Builder
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-- Email: khavan.work@gmail.com
-- LinkedIn: [linkedin.com/in/vanhoangkha](https://linkedin.com/in/vanhoangkha)
-- GitHub: [github.com/vanhoangkha](https://github.com/vanhoangkha)
